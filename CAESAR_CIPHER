@@ -1,1 +1,33 @@
+# 🔐 Caesar Cipher – Prodigy Cybersecurity Internship Task 1
+
+## 📌 Task Description
+
+This project is part of the **Prodigy Cybersecurity Internship** – Task 1: Implement the **Caesar Cipher**.
+
+The Caesar Cipher is a basic encryption technique used in classical cryptography. It works by shifting each letter in the plaintext by a fixed number of positions down the alphabet. This project includes both encryption and decryption functions.
+
+---
+
+## 🚀 Features
+
+- Encrypts plain text using Caesar Cipher logic
+- Decrypts the cipher text using the same shift value
+- Handles both uppercase and lowercase characters
+- Ignores and preserves non-alphabetic characters (punctuation, numbers, etc.)
+
+---
+
+## 🧠 How It Works
+
+- The program prompts the user for a message and a shift value (key).
+- It then encrypts the message using the Caesar Cipher algorithm.
+- After encryption, it automatically decrypts the message using the reverse shift.
+
+---
+
+## 📁 Files
+
+- `caesar.py` – Main Python file containing the Caesar Cipher logic.
+
+
 
